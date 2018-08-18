@@ -6,10 +6,7 @@ body, html {
 body { 
     /* The image used */
     /*background-image: url("img/space2.png");*/
-    background-image: url('http://imgsrc.hubblesite.org/hvi/uploads/image_file/image_attachment/29995/STSCI-H-p1716a-m-2000x1946.png');
-
-    /* Full height */
-    /*height: 100%; */
+    background-image: url('http://imgsrc.hubblesite.org/hvi/uploads/image_file/image_attachment/30742/STSCI-H-p1821a-z-849x1000.png');
 
     /* Center and scale the image nicely */
     background-position: center;
@@ -30,7 +27,6 @@ body {
 }
 
 .content {
-	/*margin: 100px 0 0 0;*/
 	border: 1px solid #000;
 	border-radius: 15px;
 	background-color: rgba(0, 0, 0, 0.75);
