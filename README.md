@@ -1,6 +1,6 @@
-# Subscribe-Landing-Page
+# Landing Page with Subscribe Button
 
-A simple to do list using HTML, CSS & vanilla javascript - add and delete items
+A simple landing page with a subscribe button to a mailing list through MailChimp using HTML & CSS
 
 [Demo][1]
 
