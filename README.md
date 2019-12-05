@@ -5,3 +5,5 @@ A simple landing page with a subscribe button to a mailing list through MailChim
 [Demo][1]
 
 [1]:https://christinetrant.github.io/Subscribe-Landing-Page/
+
+![Screenshot](shooting-stars.png)
